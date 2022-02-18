@@ -1,0 +1,39 @@
+[
+  {
+    "id": "734ff8ca-48b4-4046-899b-5a53e8ab3883",
+    "firstName": "Berky",
+    "lastName": "Player",
+    "image": "https://robohash.org/itaquealiquidvoluptatibus.png?size=500x500&set=set1",
+    "cin": "KRC",
+    "address": "82145 Mariners Cove Plaza",
+    "phoneNumber": "688-496-1023",
+    "childreen": [
+      "42ab00a4-88d1-44a7-a907-b2cdeadf96d7",
+      "15af4d5c-c556-4fc4-a4f7-1a0ea35cf7d1",
+      "fd231b0f-fef2-412c-82e5-2a687a00515d"
+    ]
+  },
+  {
+    "id": "b08ad468-aa54-4166-ab11-a4850462b448",
+    "firstName": "Arnoldo",
+    "lastName": "Maudlin",
+    "image": "https://robohash.org/facilisnemoad.png?size=500x500&set=set1",
+    "cin": "QPACU",
+    "address": "721 Melvin Junction",
+    "phoneNumber": "143-344-5929",
+    "childreen": [
+      "cf7e3a6b-e6a1-4ebd-a0c8-78a36667aca3",
+      "943c3fe6-dd0a-4897-a191-8333002edd8f"
+    ]
+  },
+  {
+    "id": "65fc6e2f-39ab-46b9-9136-f539819c0a57",
+    "firstName": "Delilah",
+    "lastName": "Sampey",
+    "image": "https://robohash.org/eosquossint.png?size=500x500&set=set1",
+    "cin": "DLBL",
+    "address": "946 Darwin Point",
+    "phoneNumber": "194-369-0995",
+    "childreen": ["c6842220-f70e-4989-b13c-699164aac13b"]
+  }
+]

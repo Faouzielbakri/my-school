@@ -1,0 +1,25 @@
+[
+  {
+    "id": "b08ad468-aa54-4166-ab11-a4850462b448",
+    "firstName": "Arnoldo",
+    "lastName": "Maudlin",
+    "image": "https://robohash.org/facilisnemoad.png?size=500x500&set=set1",
+    "cin": "QPACU",
+    "address": "721 Melvin Junction",
+    "phoneNumber": "143-344-5929",
+    "childreen": [
+      "cf7e3a6b-e6a1-4ebd-a0c8-78a36667aca3",
+      "943c3fe6-dd0a-4897-a191-8333002edd8f"
+    ]
+  },
+  {
+    "id": "65fc6e2f-39ab-46b9-9136-f539819c0a57",
+    "firstName": "Delilah",
+    "lastName": "Sampey",
+    "image": "https://robohash.org/eosquossint.png?size=500x500&set=set1",
+    "cin": "DLBL",
+    "address": "946 Darwin Point",
+    "phoneNumber": "194-369-0995",
+    "childreen": ["c6842220-f70e-4989-b13c-699164aac13b"]
+  }
+]
